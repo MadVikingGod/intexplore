@@ -1,0 +1,4 @@
+github.com/madvikinggod/intexplore/api/direct v0.0.0-20230321154601-b7727aada258 h1:qfY8ug3lYZdeOfWvXT5V8WYahPZu0vCjSELiv/huPN8=
+github.com/madvikinggod/intexplore/api/direct v0.0.0-20230321154601-b7727aada258/go.mod h1:n60Hi+eGejEtw8ZjPzhU1vZ5kXL91stExkfqBIpghMQ=
+github.com/madvikinggod/intexplore/sdk/direct v0.0.0-20230321155440-0f7f1883aace h1:M8SvDTEU+2npZTGpGUTdw2m2sWB6pi0wWX2RL98+u1c=
+github.com/madvikinggod/intexplore/sdk/direct v0.0.0-20230321155440-0f7f1883aace/go.mod h1:dmzDvmSuFbLqgd9iz4XwrqO8lFdppfpNh1Je7aBA2Bs=

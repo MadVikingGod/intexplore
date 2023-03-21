@@ -1,0 +1,4 @@
+github.com/madvikinggod/intexplore/api/abstract v0.0.0-20230321154243-2680f43e261c h1:d5V67zyQh20IGDwDHnbN9Zz1YqUOTsPgYGOctrQGLao=
+github.com/madvikinggod/intexplore/api/abstract v0.0.0-20230321154243-2680f43e261c/go.mod h1:auOrIHN16hFSS4F8kskefPKPI1NwVgGPNjdF7KhnEO4=
+github.com/madvikinggod/intexplore/sdk/abstract v0.0.0-20230321154601-b7727aada258 h1:I8VgTBJd+vvheNo1m40nd4TzcvXRw5MoxA+9RIEPXCA=
+github.com/madvikinggod/intexplore/sdk/abstract v0.0.0-20230321154601-b7727aada258/go.mod h1:SN0exgCMV7djgygHnyBroZz8aiWtY6sW2wm+6y//t2I=
