@@ -1,0 +1,10 @@
+go 1.19
+
+use (
+	./api/abstract
+	./api/direct
+	./api/side
+	./sdk/abstract
+	./sdk/direct
+	./sdk/side
+)
