@@ -1,5 +1,7 @@
 package abstract
 
+import "github.com/madvikinggod/intexplore/api/abstract"
+
 func NewBlankProvider() abstract.BlankProvider {
 	return &blankProvider{}
 }
