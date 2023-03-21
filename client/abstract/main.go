@@ -6,4 +6,5 @@ func main() {
 	bp := abstract.NewBlankProvider()
 	b := bp.Blank()
 	println(b.V1())
+	println(b.V2())
 }
