@@ -1,4 +1,10 @@
 github.com/madvikinggod/intexplore/api/side v0.0.0-20230321154601-b7727aada258 h1:/v90xzunAsT/5DE3a+2sVh6w3i0Bjf1p0Al77E/6kFM=
 github.com/madvikinggod/intexplore/api/side v0.0.0-20230321154601-b7727aada258/go.mod h1:axbOjI42XghTGtjMgpktf681FAK+d27cAVtLbRuBjSA=
+github.com/madvikinggod/intexplore/api/side v1.0.0 h1:R0sQ95WUWlly80f6CSD1Y3rgIAEYnxZ+wT/0nqbhHbk=
+github.com/madvikinggod/intexplore/api/side v1.0.0/go.mod h1:axbOjI42XghTGtjMgpktf681FAK+d27cAVtLbRuBjSA=
 github.com/madvikinggod/intexplore/sdk/side v0.0.0-20230321155440-0f7f1883aace h1:jHK7+awTOBfj/nYGlrNcPoIpQloi/y794UC7MiFn3XM=
 github.com/madvikinggod/intexplore/sdk/side v0.0.0-20230321155440-0f7f1883aace/go.mod h1:49MP/lGWrOSgVYBiIGgF9wsWq3IB2rAp0EHGSOdiR+0=
+github.com/madvikinggod/intexplore/sdk/side v1.0.0 h1:ri/cmi9Qwz0sbL+kcQYcV473nZ/vGgLTSbi3B218SR8=
+github.com/madvikinggod/intexplore/sdk/side v1.0.0/go.mod h1:49MP/lGWrOSgVYBiIGgF9wsWq3IB2rAp0EHGSOdiR+0=
+github.com/madvikinggod/intexplore/sdk/side v1.0.1 h1:Iyzyf0CMYmkuWnWLV2mi35E93AzgiBqA0KpHbf2yjS8=
+github.com/madvikinggod/intexplore/sdk/side v1.0.1/go.mod h1:k3GeKGkrNnu9Hv37s6ae7tfWjROwXnHlwAEah2F7m3s=
