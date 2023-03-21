@@ -9,4 +9,5 @@ type BlankProvider interface {
 type Blank interface {
 	blank()
 	V1() string
+	V2() string
 }

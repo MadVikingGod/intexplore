@@ -6,4 +6,5 @@ type BlankProvider interface {
 
 type Blank interface {
 	V1() string
+	V2() string
 }
