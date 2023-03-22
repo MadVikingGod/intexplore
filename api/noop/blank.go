@@ -6,6 +6,7 @@ type BlankProvider interface {
 
 type Blank interface {
 	V1() string
+	V2() string
 }
 
 type NoopBlankProvider struct{}
@@ -17,5 +18,9 @@ func (NoopBlankProvider) Blank() Blank {
 type NoopBlank struct{}
 
 func (NoopBlank) V1() string {
+	return "noop"
+}
+
+func (NoopBlank) V2() string {
 	return "noop"
 }
