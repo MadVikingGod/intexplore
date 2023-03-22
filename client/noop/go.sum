@@ -2,3 +2,5 @@ github.com/madvikinggod/intexplore/api/noop v1.0.1 h1:CCLYFI18y0uaozeXZo3gqfuzVK
 github.com/madvikinggod/intexplore/api/noop v1.0.1/go.mod h1:haIAhigCMs8EpkFr4ScXA6Hl6F7mxyfaZLMjvmU892A=
 github.com/madvikinggod/intexplore/sdk/noop v1.0.1 h1:PkGOwDy1U4kvFxyprUE5sI2PuVz2O/UEuRZRThsJS0s=
 github.com/madvikinggod/intexplore/sdk/noop v1.0.1/go.mod h1:Ay8rCEPcqURzgegE4VUMyTVuKa0qp29q9RhetC2y1XI=
+github.com/madvikinggod/intexplore/sdk/noop v1.0.2 h1:DeM0QL9wRTzg33hWounHnP4c8JDSkYMth0lRILncI30=
+github.com/madvikinggod/intexplore/sdk/noop v1.0.2/go.mod h1:ougt7ReiwrhMZFYr/irLljQiaiO/kO6f0MMteQwX4Kg=
