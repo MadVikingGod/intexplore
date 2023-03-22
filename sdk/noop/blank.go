@@ -7,7 +7,7 @@ func NewBlankProvider() noop.BlankProvider {
 }
 
 type blankProvider struct {
-	noop.BlankProvider
+	noop.NoopBlankProvider
 }
 
 func (p *blankProvider) Blank() noop.Blank {
@@ -15,7 +15,7 @@ func (p *blankProvider) Blank() noop.Blank {
 }
 
 type blank struct {
-	noop.Blank
+	noop.NoopBlank
 }
 
 func (b *blank) V1() string {
